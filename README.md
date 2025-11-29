@@ -1,4 +1,4 @@
-# 🏦 Banking Customer Churn Analysis
+# 🏦 Multi-Feature Banking Adoption and Customer Churn Prediction
 
 **Uncovering why customers leave and how to keep them.**
 
@@ -74,5 +74,6 @@ Behavioral factors (product adoption and engagement) matter far more than demogr
 - **Size:** 9,998 customer records
 - **Features:** Demographics, account info, product usage, churn status
 - **Time Period:** Cross-sectional snapshot
+
 
 ---
